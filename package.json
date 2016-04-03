@@ -1,0 +1,10 @@
+{
+  "name": "translated-chat",
+  "version": "0.0.1",
+  "description": "simple translated chat",
+  "dependencies": {
+    "express": "4.10.2",
+    "socket.io": "1.2.0",
+    "google-translate": "1.0.6"
+  }
+}
